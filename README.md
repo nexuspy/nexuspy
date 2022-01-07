@@ -38,7 +38,7 @@
 
 <br />
 
-[twitter]: https://twitter.com/codeSTACKr
+[twitter]: https://twitter.com/Sarcas_tik
 [youtube]: https://www.youtube.com/channel/UCfN-LIUu4MxZ27G_iLmnnDA
 [instagram]: https://www.instagram.com/___nexus___/
 [linkedin]: https://www.linkedin.com/in/pratik-warhade-a7b5441a1/
