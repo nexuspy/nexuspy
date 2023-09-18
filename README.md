@@ -7,6 +7,7 @@
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2023 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play with mechanical stuff
+- [![Open Source Helpers](https://www.codetriage.com/mozilla/hubs/badges/users.svg)](https://www.codetriage.com/mozilla/hubs)
 
 ### Connect with me:
 
@@ -42,3 +43,4 @@
 [youtube]: https://www.youtube.com/channel/UCfN-LIUu4MxZ27G_iLmnnDA
 [instagram]: https://www.instagram.com/___nexus___/
 [linkedin]: https://www.linkedin.com/in/pratik-warhade-a7b5441a1/
+
