@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2023 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play with mechanical stuff
+- ⚡ 
 - [![Open Source Helpers](https://www.codetriage.com/mozilla/hubs/badges/users.svg)](https://www.codetriage.com/mozilla/hubs)
 
 ### Connect with me:
