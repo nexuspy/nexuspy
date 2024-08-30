@@ -3,9 +3,8 @@
 ## I'm a GEEK, Freak, Developer, and Learner!!
 
 - 🔭
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2023 Goals: Contribute more to Open Source projects
+- 👯 I’m looking to collaborate
+- 🥅 2024 Goals: Contribute more to Open Source projects
 - ⚡ 
 - [![Open Source Helpers](https://www.codetriage.com/mozilla/hubs/badges/users.svg)](https://www.codetriage.com/mozilla/hubs)
 
